@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/progressbar.iml" filepath="$PROJECT_DIR$/progressbar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/kotlin-progressbar.iml" filepath="$PROJECT_DIR$/src/kotlin-progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
 </project>
